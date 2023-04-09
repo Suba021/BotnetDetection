@@ -58,6 +58,27 @@ XGB → 86.74
 
 ![Untitled design](https://user-images.githubusercontent.com/129875760/230754254-9d294618-d39b-42b9-a637-b0bb0c445cbf.jpg)
 
+## Impact of One API
+
+![DAL](https://user-images.githubusercontent.com/129875760/230754889-564b0cf6-a213-42ca-99e2-5cad3f8bb343.png)
+
+OneAPI Data Analytics Library (oneDAL) is a powerful machine learning library that helps you accelerate big data analysis at all stages: preprocessing, transformation, analysis, modeling, validation, and decision making.
+
+The library implements classical machine learning algorithms. The boost in their performance is achieved by leveraging the capabilities of Intel® hardware.
+
+oneDAL is part of oneAPI. The current branch implements version 1.1 of oneAPI Specification.
+
+## Learning Outcome
+
+Building a botnet detection model involves a significant amount of research and development. During the process, I likely learned a number of things, including:
+
+✅Machine Learning: I likely learned about different machine learning algorithms and how they can be applied to predict botnet attack.
+
+✅Data Analysis: I likely gained experience in collecting and analyzing large amounts of data features to train our machine learning models.
+
+✅Attack Trends: I likely gained insight into current trends in cyber attack that people are facing , such as the need for detection and protection.
+
+
 
 
 
